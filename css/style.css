@@ -2060,7 +2060,7 @@ body:not(.is-using-mouse) .fancybox__container :focus {
 }
 .services__item {
   counter-increment: my-counter;
-  border: 1px solid #C4C4C4;
+  border: 2px solid #C4C4C4;
   margin-bottom: 12px;
   width: 450px;
   padding: 10px 15px 10px 113px;
